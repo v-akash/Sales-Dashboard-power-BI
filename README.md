@@ -27,3 +27,8 @@ dimensions, including Category, Sub-Category, Region, Segment, City and Quarter.
  Quarter-on-Quarter Sales (QoQ%):Sales generally show growth except for a sharp decline in Q1 2019 (-98.13%).
  
  Biggest growth: Q4 2017 (75.51%) and Q3 2018 (58.99%). 
+
+ # Visulaization
+  ![Image](https://github.com/user-attachments/assets/ff08fe87-f4ce-4460-8997-6009fbe3034c)
+
+  ![Image](https://github.com/user-attachments/assets/5d12324d-c6c3-4b00-be86-1e415c31cdb5)
