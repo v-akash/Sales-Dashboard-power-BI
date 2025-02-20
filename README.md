@@ -7,9 +7,6 @@ dimensions, including Category, Sub-Category, Region, Segment, City and Quarter.
  # Tools Used
  Power BI
 
- # Cleaning
- Removed the Unwanted column rom the table
-
  # Key Insights
  
  YTD by Category:Furniture is the highest revenue-generating category with 2.9K in sales
