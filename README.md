@@ -4,7 +4,7 @@
 The dashboard provides a comprehensive analysis of sales data across various
 dimensions including Category, Sub-Category, Region, Segment, City and Quarter.
 
- # Tools Used
+ # Tool Used
  Power BI
 
  # Key Insights
